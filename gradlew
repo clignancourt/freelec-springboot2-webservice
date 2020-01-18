@@ -171,6 +171,3 @@ fi
 
 exec "$JAVACMD" "$@"
 
-dependencies:
-    override:
-        - chmod +x gradlew
